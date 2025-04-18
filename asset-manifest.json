@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sofia/static/css/main.6a1f4b74.css",
+    "main.js": "/sofia/static/js/main.518c9818.js",
+    "static/js/453.8ab44547.chunk.js": "/sofia/static/js/453.8ab44547.chunk.js",
+    "index.html": "/sofia/index.html",
+    "main.6a1f4b74.css.map": "/sofia/static/css/main.6a1f4b74.css.map",
+    "main.518c9818.js.map": "/sofia/static/js/main.518c9818.js.map",
+    "453.8ab44547.chunk.js.map": "/sofia/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a1f4b74.css",
+    "static/js/main.518c9818.js"
+  ]
+}
